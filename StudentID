@@ -1,0 +1,12 @@
+StudentModule::StudentID [] =
+	{
+		StudentID::_NA,
+		StudentID::_GA,
+		StudentID::_RE,
+		StudentID::_TE,
+		StudentID::_KU,
+		StudentID::_TO,
+		StudentID::_KI,
+		StudentID::_NO,
+		StudentID::_NA,
+  }
